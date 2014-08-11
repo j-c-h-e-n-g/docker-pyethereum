@@ -17,3 +17,12 @@ You should see this output if you run `python2.7 /tmppyethereum/eth.py`:
     
     serving on http://127.0.0.1:30203
 
+
+Dependencies
+------------
+
+pyethereum ships with a `requirements.txt` which you can point pip at
+in order to install python module dependencies.
+
+* Python-2.7.6
+* pip2.7
