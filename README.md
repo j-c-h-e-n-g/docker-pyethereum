@@ -1,8 +1,12 @@
 docker-pyethereum
 -----------------
 
-In an ideal world you'd just install things and they would work! This will
-install dependecies needed to run the python implementation of ethereum.
+In an ideal world you'd just install things and they would work! I have 
+suffered for you, the internet. The hordes of folks who want ot install 
+pyethereum!
+
+Basically this installs dependecies needed to run the python 
+implementation of ethereum.
 
 You should see this output if you run `python2.7 /tmppyethereum/eth.py`:
 
