@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/j-c-h-e-n-g/docker-pyethereum.png)](https://hub.docker.com/r/jcheng/docker-pyethereum)
+
 docker-pyethereum
 -----------------
 
