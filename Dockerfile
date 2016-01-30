@@ -12,4 +12,4 @@ RUN cd /tmp; python2.7 ez_setup.py; easy_install-2.7 pip
 
 RUN cd /tmp; git clone https://github.com/ethereum/pyethereum.git
 RUN cd /tmp/pyethereum; pip2.7 install -r requirements.txt;
-RUN cd /tmp; git clone https://github.com/peconi/python-sha3.git; cd /tmp/python-sha3; python2.7 setup.py install
+RUN cd /tmp; git clone https://github.com/bjornedstrom/python-sha3.git; cd /tmp/python-sha3; python2.7 setup.py install
